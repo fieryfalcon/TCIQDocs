@@ -147,5 +147,4 @@ To **sync the latest Call Queues** from **Microsoft Teams**:
 ## **Conclusion**
 The **Call Queue Module** of **Teams Core IQ** streamlines **Microsoft Teams telephony management** by providing advanced **routing, delegation, and monitoring features**. This guide covered **creating, managing, and optimizing** call queues efficiently.
 
-For further assistance, refer to **Teams Core IQ Support** or consult the **Microsoft Teams Admin Center documentation**.
 
